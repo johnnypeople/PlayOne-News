@@ -1,0 +1,82 @@
+header{
+    background-color: rgb(33, 121, 106);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    }
+    body{
+        
+       margin: auto;
+        display: block;
+        background-image: url(https://img.freepik.com/fotos-gratis/parede-de-concreto-azul-marinho-com-arranhoes_53876-102666.jpg?size=626&ext=jpg);
+        background-size: cover;
+        width: 1500px;
+    }
+    .box{
+       
+    }
+    
+    main { 
+        
+        display: flex ;
+    }
+    a{
+        font-family: sans-serif;
+        font-size: 27px;
+        text-decoration: none;
+        color: black;
+    }
+    h2 :hover{
+        text-decoration: underline;
+        color: gray;
+        
+    }
+    p{
+        font-size:17.5px ;
+    }
+    .div1{
+        word-wrap: break-word;
+        background-color: rgba(127, 255, 212, 0.301);
+        width: 450px;
+        margin: auto;
+        height: auto;
+        border-radius: 15px;
+        padding: 10px;
+       
+        
+       
+    }
+
+    #José{
+        height: 260px;
+        display: block;
+        margin-left: 20px;
+    }
+    #Gasosa{
+        height: 250px;
+        display: block;
+        margin-left: 3px;
+    }
+    #lápide{
+        height: 250px;
+    }
+footer{
+    text-align: center;
+  
+}
+footer :hover{
+    color: gray;
+}
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin: 3%;
+    background-color: rgba(33, 121, 106, 0.644);
+    padding: 4px;
+    border-radius: 5px;
+    display: 0;
+   
+
+}
